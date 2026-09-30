@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "dev_ratio": 0.1,
+  "total": 38780,
+  "train": 34902,
+  "val": 3878,
+  "test": 6035,
+  "backup_dir": "/home/hbuetea/topk-last_layer/data/cross_project/backup_before_dedup_20260825_153324"
+}
